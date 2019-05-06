@@ -17,11 +17,27 @@ Below is my documentation on the project.
 
 ### Video
 
+[![Video](http://img.youtube.com/vi/qARwFlDEduw/0.jpg)](http://www.youtube.com/watch?v=qARwFlDEduw)
+
 ### List of Materials
+
+| Item            | Quantity | Source                                                   |
+|-----------------|----------|----------------------------------------------------------|
+| NeoPixel 24     | 1        | [Adafruit](https://www.adafruit.com/product/1586)        |
+| Push Button     | 1        | N/A                                                      |
+| Resistor (xohm) | 1        | N/A                                                      |
+| Resistor (xohm) | 1        | N/A                                                      |
+| Arduino Uno     | 1        | [Arduino](https://store.arduino.cc/usa/arduino-uno-rev3) |
+| Jumper Wires    | 5        | N/A                                                      |
+
 
 ### Wiring Diagram
 
+![Wiring Diagram](https://github.com/DexterCarpenter/RingGame/Documentation/RingGameWDiagram.png)
+
 ### 3D Printed Case
+
+Coming soon...
 
 ## References
 

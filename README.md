@@ -33,7 +33,7 @@ Below is my documentation on the project.
 
 ### Wiring Diagram
 
-![Wiring Diagram](https://github.com/DexterCarpenter/RingGame/Documentation/RingGameWDiagram.png)
+![Wiring Diagram](https://github.com/DexterCarpenter/RingGame/blob/master/Documentation/RingGameWDiagram.PNG)
 
 ### 3D Printed Case
 

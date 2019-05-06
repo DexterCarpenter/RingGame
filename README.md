@@ -42,4 +42,5 @@ Coming soon...
 ## References
 
 Thanks to Colin Hale-Brown for his help making the custom circuit and case
+
 Thanks to Adafruit for their documentation on their product

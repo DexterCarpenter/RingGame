@@ -41,6 +41,10 @@ Coming soon...
 
 ## References
 
-Thanks to Colin Hale-Brown for his help making the custom circuit and case
+Thanks to [Colin Hale-Brown](https://github.com/colinhalebrown) for his help making the custom circuit and case
 
-Thanks to Adafruit for their documentation on their product
+Thanks to [Adafruit](https://www.adafruit.com/) for their documentation on their product
+
+Thanks to [Tinkercad](https://www.tinkercad.com) for help making the wiring diagram
+
+

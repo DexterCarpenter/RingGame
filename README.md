@@ -26,7 +26,7 @@ Below is my documentation on the project.
 | NeoPixel 24     | 1        | [Adafruit](https://www.adafruit.com/product/1586)        |
 | Push Button     | 1        | N/A                                                      |
 | Resistor (xohm) | 1        | N/A                                                      |
-| Resistor (xohm) | 1        | N/A                                                      |
+| Resistor (680ohm) | 1        | N/A                                                      |
 | Arduino Uno     | 1        | [Arduino](https://store.arduino.cc/usa/arduino-uno-rev3) |
 | Jumper Wires    | 5        | N/A                                                      |
 

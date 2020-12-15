@@ -9,15 +9,13 @@ This was a one-day project. Using a Adafruit Neopixel ring (24), an Arduinio Uno
 
 My goal was to make this as simple as possible, using just the NeoPixel and a button as the UI.
 
-Currently, I am working on migrating it off a breadboard to a custom circuit and a 3D-Printed case.
-
 Below is my documentation on the project.
 
 ## Documentation
 
-### Video
+### GIF
 
-[![Video](http://img.youtube.com/vi/qARwFlDEduw/0.jpg)](http://www.youtube.com/watch?v=qARwFlDEduw)
+![GIF](https://github.com/DexterCarpenter/RingGame/blob/master/Documentation/RingGame.gif)
 
 ### List of Materials
 
@@ -34,10 +32,6 @@ Below is my documentation on the project.
 ### Wiring Diagram
 
 ![Wiring Diagram](https://github.com/DexterCarpenter/RingGame/blob/master/Documentation/RingGameWDiagram.PNG)
-
-### 3D Printed Case
-
-Coming soon...
 
 ## References
 

@@ -33,6 +33,10 @@ Below is my documentation on the project.
 
 ![Wiring Diagram](https://github.com/DexterCarpenter/RingGame/blob/master/Documentation/RingGameWDiagram.PNG)
 
+### NeoPixel Library
+
+To install the NeoPixel Library, open the sketch using Arduino's IDE. Go to Sketch > Include Library > Manage Libraries... and search for "Adafruit NeoPixel". Install the library and it should now compile properly. This will work for the Arduino IDE version 1.8.13 (.exe version) and Adafruit Neopixel Library version 1.7.0. (Last updated 12/15/2020).
+
 ## References
 
 Thanks to [Colin Hale-Brown](https://github.com/colinhalebrown) for his help making the custom circuit

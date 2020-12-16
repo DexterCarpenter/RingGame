@@ -38,7 +38,8 @@ Below is my documentation on the project.
 Thanks to [Colin Hale-Brown](https://github.com/colinhalebrown) for his help making the custom circuit
 
 Thanks to [Adafruit](https://www.adafruit.com/) for their documentation on their product
-The NeoPixel Library (Adafruit_NeoPixel.h) can be found [here](https://github.com/adafruit/Adafruit_NeoPixel)
+
+The NeoPixel Library by [Adafruit](https://www.adafruit.com/) (Adafruit_NeoPixel.h) can be found [here](https://github.com/adafruit/Adafruit_NeoPixel)
 
 Thanks to [Tinkercad](https://www.tinkercad.com) for help making the wiring diagram
 

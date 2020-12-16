@@ -27,7 +27,7 @@ Below is my documentation on the project.
 | Resistor (680ohm) | 1        | N/A                                                      |
 | Arduino Uno     | 1        | [Arduino](https://store.arduino.cc/usa/arduino-uno-rev3) |
 | Jumper Wires    | 5        | N/A                                                      |
-
+| Breadboard      | 1        | N/A                                                      |
 
 ### Wiring Diagram
 
